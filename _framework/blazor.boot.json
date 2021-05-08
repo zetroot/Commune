@@ -34,7 +34,7 @@
       "Serilog.Sinks.BrowserConsole.dll": "sha256-IPtN1f\/bcm4aEeb8zOFR8R4ssAbSwZe91vAFhI\/FOL4=",
       "Serilog.Sinks.Console.dll": "sha256-ruvvsbpJZoauedShSlEu3r7loGS7iwshcQRMx7jXyTw=",
       "System.IO.Pipelines.dll": "sha256-qZYTUS+ga7CydtH54fYPbehFCvx3B49I74G8dxreTog=",
-      "DotNetRu.Commune.WasmClient.dll": "sha256-b+aEgmRzp8feNb74B2NH7O1qlv2IOtjMSnrSgGrlkt4=",
+      "DotNetRu.Commune.WasmClient.dll": "sha256-Ay\/MDAjB1PRWBrP4JNY2XCaMBVz7NGEiiI1+knASatU=",
       "Microsoft.CSharp.dll": "sha256-LBH5l\/4ng1mxvaiOWSRyhOqo\/g20gDci4tsZesc8zZ4=",
       "System.Collections.Concurrent.dll": "sha256-AiNyYeVrItBUSuAtxVCKorODzJQj92D9KQHIEB3PvFU=",
       "System.Collections.Immutable.dll": "sha256-tbnwbLEUEersbMLOBI6+4VACjzimd7uWfvWZp6A5jQY=",
@@ -61,7 +61,7 @@
       "System.Text.Encodings.Web.dll": "sha256-yIMrT8Ppi8eSGnwO3Zz5D+x96yg\/7Drdnh499NtWIgU=",
       "System.Text.Json.dll": "sha256-1kxZsZWLcjvchIJOgxx\/xD0kLdLpEWRPHVCry9GEmlE=",
       "System.Text.RegularExpressions.dll": "sha256-qecypgiTvQRxl++yGu9FSj5+jGcH7m9ZRvHiDCDsteA=",
-      "System.Private.CoreLib.dll": "sha256-hQpz2y59Ktu\/jU0PODAkW1ytky704vgeCafKMLBOaFg="
+      "System.Private.CoreLib.dll": "sha256-CWG0hzjWtixfcivyMKgkFX6YNMUjai21iva8pqhm6K0="
     },
     "lazyAssembly": null,
     "pdb": null,
